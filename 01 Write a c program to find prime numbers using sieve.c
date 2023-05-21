@@ -29,6 +29,5 @@ int main()
         }
     }
     printf("\n1 to %d total prime = %d", n, prime_count);
-
     return 0;
 }
